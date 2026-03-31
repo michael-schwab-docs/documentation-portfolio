@@ -6,7 +6,7 @@ This portfolio emphasizes clarity, repeatability, and decision-support documenta
 
 ---
 
-## Featured Artifact
+## Featured Artifacts
 
 ### VUL Subaccount Allocation Review  
 **Analytical Framework and Standard Operating Procedure**
@@ -16,27 +16,44 @@ This portfolio emphasizes clarity, repeatability, and decision-support documenta
 This document presents a structured analytical methodology and procedural workflow for evaluating subaccount allocations within variable universal life (VUL) insurance policies held in trust.
 
 It demonstrates:
-- Analytical framework design for decision-making processes
-- Standard operating procedure (SOP) development
-- Translation of complex domain concepts into structured documentation
-- Process documentation in a regulated, fiduciary context
+- Analytical framework design for decision-making processes  
+- Standard operating procedure (SOP) development  
+- Translation of complex domain concepts into structured documentation  
+- Process documentation in a regulated, fiduciary context  
 
 📄 [View PDF](./vul-subaccount-allocation-review.pdf)
 
 ---
 
+### Morningstar Advisor Workstation  
+**VUL Subaccount Selection Job Aid**
+
+*Task-based documentation sample (sanitized for portfolio use)*
+
+This job aid provides step-by-step instructions for locating and displaying subaccounts within a variable universal life (VUL) insurance product using Morningstar Advisor Workstation.
+
+It demonstrates:
+- Task-based documentation design  
+- UI-driven workflow guidance  
+- Effective use of visuals and callouts  
+- Clear, concise procedural writing  
+
+📄 [View PDF](./morningstar-vul-subaccounts-job-aid.pdf)
+
+---
+
 ## Notes
 
-- This artifact is a **sanitized portfolio example** based on real-world processes.
-- It is intended to demonstrate documentation structure, clarity, and workflow design—not proprietary data or firm-specific methodologies.
+- These artifacts are **sanitized portfolio examples** based on real-world processes.  
+- They are intended to demonstrate documentation structure, clarity, and workflow design—not proprietary data or firm-specific methodologies.
 
 ---
 
 ## Skills Demonstrated
 
-- Technical and procedural writing
-- Documentation structure and standards
-- Analytical process design
-- Markdown (docs-as-code)
-- Diagramming (Mermaid)
-- AI-assisted drafting with subject matter expert (SME) validation
+- Technical and procedural writing  
+- Documentation structure and standards  
+- Analytical process design  
+- Task-based documentation  
+- UI workflow documentation  
+- Visual communication (annotated screenshots)
