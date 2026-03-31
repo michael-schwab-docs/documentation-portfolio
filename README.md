@@ -15,7 +15,7 @@ It demonstrates:
 - Translation of complex financial concepts into structured documentation
 - Process documentation in a regulated environment
 
-📄 [View PDF](./vul-subaccount-allocation-review.pdf)
+📄 [View PDF](./vul-subaccount_allocation-review.pdf)
 
 ---
 
