@@ -2,7 +2,7 @@
 
 This repository contains sample documentation artifacts demonstrating structured, process-oriented writing for complex workflows in regulated environments.
 
-This portfolio emphasizes clarity, repeatability, and decision-support documentation designed for analytical and operational use.
+The portfolio emphasizes clarity, repeatability, and decision-support documentation designed for analytical and operational use.
 
 ---
 
@@ -25,6 +25,23 @@ It demonstrates:
 
 ---
 
+### Managing Inadequately Funded Life Insurance Policies  
+**Guidance Brief (Decision-Support Documentation)**
+
+*Sample explanatory documentation (sanitized and adapted for portfolio use)*
+
+This document outlines common remediation strategies for life insurance policies projected to lapse or underperform due to insufficient funding.
+
+It demonstrates:
+- Decision-support documentation design  
+- Translation of complex financial concepts into structured guidance  
+- Clear presentation of options, tradeoffs, and constraints  
+- Writing for fiduciary and analytical audiences  
+
+📄 [View PDF](./inadequately-funded-policy-guidance.pdf)
+
+---
+
 ### Morningstar Advisor Workstation  
 **VUL Subaccount Selection Job Aid**
 
@@ -38,20 +55,21 @@ It demonstrates:
 - Effective use of visuals and callouts  
 - Clear, concise procedural writing  
 
-📄 [View PDF](./morningstar-vul-subaccounts-job-aid.pdf)
+📄 [View PDF](./morningstar-vul-subaccount-job-aid.pdf)
 
 ---
 
 ## Notes
 
-- These artifacts are **sanitized portfolio examples** based on real-world processes.  
-- They are intended to demonstrate documentation structure, clarity, and workflow design—not proprietary data or firm-specific methodologies.
+- These artifacts are **sanitized and adapted** based on real-world documentation and fiduciary analysis workflows.  
+- They are intended to demonstrate documentation structure, clarity, and usability—not proprietary data or firm-specific methodologies.
 
 ---
 
 ## Skills Demonstrated
 
 - Technical and procedural writing  
+- Decision-support and guidance documentation  
 - Documentation structure and standards  
 - Analytical process design  
 - Task-based documentation  
