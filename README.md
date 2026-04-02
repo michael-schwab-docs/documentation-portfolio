@@ -59,7 +59,7 @@ It demonstrates:
 - Effective use of visuals and callouts  
 - Clear, concise procedural writing  
 
-📄 [View PDF](./morningstar-vul-subaccount-job-aid.pdf)
+📄 [View PDF](./morningstar-vul-subaccounts-job-aid.pdf)
 
 ---
 
