@@ -2,11 +2,15 @@
 
 This repository contains sample documentation artifacts demonstrating structured, process-oriented writing for complex workflows in regulated environments.
 
-The portfolio emphasizes clarity, repeatability, and decision-support documentation designed for analytical and operational use.
+The portfolio focuses on analytical frameworks, standard operating procedures (SOPs), and decision-support documentation designed to support operational consistency, risk evaluation, and informed decision-making.
 
 ---
 
 ## Featured Artifacts
+
+The following samples represent documentation designed for real-world analytical and operational use.
+
+---
 
 ### VUL Subaccount Allocation Review  
 **Analytical Framework and Standard Operating Procedure**
@@ -59,10 +63,28 @@ It demonstrates:
 
 ---
 
+## Additional Work Samples
+
+The following example demonstrates foundational documentation skills in a general (non-domain-specific) context.
+
+### Process Documentation and Flowchart  
+**Procedure and Visual Workflow Example**
+
+This document presents a structured procedure and corresponding process flow diagram for a general workflow.
+
+It demonstrates:
+- Procedural clarity and step sequencing  
+- Use of decision points and iterative loops  
+- Alignment between written instructions and visual process flow  
+- Foundational SOP and flowchart design  
+
+📄 [View PDF](./process-documentation-procedure-flow.pdf)
+
+---
+
 ## Notes
 
-- These artifacts are **sanitized and adapted** based on real-world documentation and fiduciary analysis workflows.  
-- They are intended to demonstrate documentation structure, clarity, and usability—not proprietary data or firm-specific methodologies.
+These artifacts are sanitized and adapted representations of real-world documentation and fiduciary analysis workflows. They are intended to demonstrate documentation structure, clarity, and usability rather than proprietary data or firm-specific methodologies.
 
 ---
 
@@ -74,4 +96,5 @@ It demonstrates:
 - Analytical process design  
 - Task-based documentation  
 - UI workflow documentation  
-- Visual communication (annotated screenshots)
+- Visual communication (annotated screenshots and process flows)  
+- Markdown (docs-as-code) and version control (Git/GitHub)
