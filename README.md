@@ -1,6 +1,6 @@
 # Documentation Portfolio – Michael Schwab
 
-This repository contains sample documentation artifacts demonstrating structured, process-oriented writing for complex workflows in regulated environments.
+This repository contains sample documentation artifacts demonstrating structured, process-oriented writing for complex workflows in regulated environments, with an emphasis on clarity, consistency, and the controlled application of emerging tools.
 
 The portfolio focuses on analytical frameworks, standard operating procedures (SOPs), and decision-support documentation designed to support operational consistency, risk evaluation, and informed decision-making.
 
@@ -55,30 +55,34 @@ This job aid provides step-by-step instructions for locating and displaying suba
 
 It demonstrates:
 - Task-based documentation design  
+- Instructional clarity for system navigation  
 - UI-driven workflow guidance  
-- Effective use of visuals and callouts  
-- Clear, concise procedural writing  
+- Use of structured steps and visual cues to reduce user friction  
 
 📄 [View PDF](./morningstar-vul-subaccounts-job-aid.pdf)
 
 ---
 
-## Additional Work Samples
+## Supplemental / Exploratory Work
 
-The following example demonstrates foundational documentation skills in a general (non-domain-specific) context.
+The following sample reflects exploratory work focused on applying structured documentation principles to emerging tools and workflows.
 
-### Process Documentation and Flowchart  
-**Procedure and Visual Workflow Example**
+---
 
-This document presents a structured procedure and corresponding process flow diagram for a general workflow.
+### AI-Assisted SOP Development  
+**Workflow and Governance Framework**
+
+*Exploratory framework (generalized for portfolio use)*
+
+This document outlines a structured approach for incorporating AI tools into standard operating procedure (SOP) development while maintaining human validation, consistency, and governance controls.
 
 It demonstrates:
-- Procedural clarity and step sequencing  
-- Use of decision points and iterative loops  
-- Alignment between written instructions and visual process flow  
-- Foundational SOP and flowchart design  
+- Application of documentation principles to AI-assisted workflows  
+- Prompt design and constraint-based output structuring  
+- Identification of common AI output patterns and limitations  
+- Emphasis on validation, risk awareness, and controlled usage  
 
-📄 [View PDF](./process-documentation-procedure-flow.pdf)
+📄 [View PDF](./ai-assisted-sop-development.pdf)
 
 ---
 
